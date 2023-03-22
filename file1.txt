@@ -3,3 +3,6 @@ Linea de texto 2
 Linea de texto 3
 Linea de texto 4
 Linea de texto 5
+
+
+#Este cambio de la rama master no producirá ningun conflicto ya que en ambas ramas se están modificando archivos distintos.
